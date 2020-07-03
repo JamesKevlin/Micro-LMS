@@ -1,0 +1,41 @@
+students
+- 
+teachers
+- 
+admin
+-
+
+
+classes
+
+grades
+
+
+sign up
+
+
+
+
+4 pages
+
+sign up
+
+teacher
+ can drop student from course
+ can sign a student up for a course
+ can sign up to teach course
+ can assign grade to student
+
+student profile
+ can sign up for classes
+ can drop classes
+ can sign up for school
+ show grades per class(maybe gpa)
+
+admin profile
+ can add class
+ can remove class
+ can remove student & teacher
+ can create teacher
+
+ cant remove another admin
